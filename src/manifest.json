@@ -1,0 +1,10 @@
+{
+  "name": "契圈",
+  "appid": "__UNI__CONTRACT_CIRCLE",
+  "description": "契约精神、信用为本、兴趣驱动的个人小圈子",
+  "versionName": "0.1.0",
+  "mp-weixin": {
+    "appid": "",
+    "setting": { "urlCheck": false }
+  }
+}

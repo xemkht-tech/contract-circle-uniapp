@@ -1,0 +1,18 @@
+{
+  "pages": [
+    { "path": "pages/community/index", "style": { "navigationBarTitleText": "兴趣社区" } },
+    { "path": "pages/market/index", "style": { "navigationBarTitleText": "交易市场" } },
+    { "path": "pages/profile/index", "style": { "navigationBarTitleText": "个人中心" } }
+  ],
+  "tabBar": {
+    "color": "#8A908E",
+    "selectedColor": "#116149",
+    "backgroundColor": "#FCFCF8",
+    "borderStyle": "white",
+    "list": [
+      { "pagePath": "pages/community/index", "text": "兴趣社区" },
+      { "pagePath": "pages/market/index", "text": "交易市场" },
+      { "pagePath": "pages/profile/index", "text": "个人中心" }
+    ]
+  }
+}
